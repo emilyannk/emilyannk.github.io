@@ -19,8 +19,8 @@ menu:
     - name: Blog
       url: "blog/"
       weight: 2
-    - name: Info
-      url: "info"
+    - name: Bio
+      url: "bio"
       weight: 4
 #    - name: Projects
 #      url: "projects/"
