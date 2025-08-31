@@ -1,6 +1,6 @@
 baseurl: "https://emilyannk.github.io/" 
 languageCode: "en-us"
-title: ""
+title: "Ambient Data"
 theme: "hugo-xmin"
 #googleAnalytics: ""
 disqusShortname: ""
@@ -30,7 +30,7 @@ menu:
 
 params:
   description: "Just a website."
-  footer: "&copy; [Emilyann Kerr](https://emilyannk.github.io) {Year} | [Github](https://github.com/emilyannk)"
+  footer: "&copy; [E Kerr](https://emilyannk.github.io) {Year} | [Github](https://github.com/emilyannk)"
 
 markup:
   highlight:
