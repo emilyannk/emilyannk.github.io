@@ -1,14 +1,14 @@
-baseurl: "https://emilyannk.github.io/" 
+baseurl: "https://reallybigmess.github.io/" 
 languageCode: "en-us"
 title: "Ambient Data"
 theme: "hugo-xmin"
 #googleAnalytics: ""
 disqusShortname: ""
-ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+ignoreFiles: ["zasqua/.*","\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
 
 permalinks:
-   blog: "/blog/:year/:month/:day/:slug/"
+#   blog: "/blog/:year/:month/:day/:slug/"
 #  post: "/post/:year/:month/:day/:slug/"
 
 menu:
@@ -16,21 +16,21 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: Blog
-      url: "blog/"
-      weight: 2
+    # - name: Blog
+    #   url: "blog/"
+    #   weight: 2
     - name: Bio
       url: "bio"
-      weight: 4
-#    - name: Projects
-#      url: "projects/"
-#      weight: 3
+      weight: 2
+    - name: Projects
+      url: "projects"
+      weight: 3
 #    - name: Subscribe
 #      url: "index.xml"
 
 params:
   description: "Just a website."
-  footer: "&copy; [E Kerr](https://emilyannk.github.io) {Year} | [Github](https://github.com/emilyannk)"
+  footer: "&copy; [Ennis Kerr](https://reallybigmess.github.io) {Year} | [Github](https://github.com/reallybigmess)"
 
 markup:
   highlight:

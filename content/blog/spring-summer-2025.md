@@ -2,7 +2,7 @@
 title = 'Spring & Summer 2025'
 categories = ['blog','school']
 date = 2025-05-25
-draft = false
+draft = true
 slug = 'spring-summer-2025'
 +++
 

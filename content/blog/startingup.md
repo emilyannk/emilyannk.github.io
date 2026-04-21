@@ -3,6 +3,7 @@ categories = ['blog']
 date = '2025-04-16'
 slug = 'starting-up'
 title = 'Starting Up'
+draft = true
 +++
 
 Here is the first post, for real this time. I'm testing Hugo.[^2]

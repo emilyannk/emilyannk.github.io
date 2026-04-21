@@ -3,7 +3,7 @@ title = 'CD Borrowing Adventures'
 slug = 'cd-borrowing-adventures'
 categories = ['blog','digipres','emulation']
 date = 2025-06-10T17:31:33-04:00
-draft = false
+draft = true
 +++
 
 Today I borrowed a CD with some old software[^1] out from "my" library so that I can mess with it for emulation's sake. Not super unusual for me, but acquiring this specific copy is something I had already tried and failed at... Back when I was an undergrad I did a Digital Preservation 101 paper and Patchwork Girl came up in my research, so I tried to get it, but whoever fielded my question that day couldn't track it down, so I wrote the rest of my paper and assumed the library had purged their really old CDs or something.
